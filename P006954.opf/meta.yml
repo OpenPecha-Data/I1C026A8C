@@ -1,5 +1,7 @@
 id: P006954
 initial_creation_type: ocr
+created_at: 29/03/2020
+last_modified_at: 25/11/2021
 source_metadata:
   id: bdr:W1KG11728
   title: དགེ་འདུན་ཉི་ཤུའི་མཐའ་དཔྱོད་སྐལ་བཟང་འཇུག་ངོགས་སོགས།
@@ -11,10 +13,3 @@ source_metadata:
       volume_number: 1
       total_pages: 294
       base_file: v001.txt
-ebook_metadata:
-  title: དགེ་འདུན་ཉི་ཤུའི་མཐའ་དཔྱོད་སྐལ་བཟང་འཇུག་ངོགས་སོགས།
-  author: ''
-  sku: P006954
-  cover: cover.jpg
-  layers:
-  - pagination
